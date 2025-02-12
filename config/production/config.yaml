@@ -2,6 +2,11 @@
 
 baseURL: https://www.horizonssolidaires.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 02f57b0b-eae2-4e0b-9781-ad8e80734072
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
