@@ -9,6 +9,23 @@ fr:
   buildFuture: true
   params:
     contact_details:
+      emails:
+        email:
+          label: >-
+            coordination@horizons-solidaires.fr
+          value: >-
+            mailto:coordination@horizons-solidaires.fr
+      social_networks:
+        facebook:
+          label: >-
+            horizons.solidaires
+          value: >-
+            https://www.facebook.com/horizons.solidaires
+        linkedin:
+          label: >-
+            horizonsolidaires
+          value: >-
+            https://www.linkedin.com/company/horizonsolidaires/
 
   permalinks:
     events: /agenda/:year/:slug/
