@@ -28,9 +28,9 @@ fr:
             https://www.linkedin.com/company/horizonsolidaires/
 
   permalinks:
-    events: /agenda/:year/:slug/
+    events: /actualites/agenda/:year/:slug/
     exhibitions: /expositions/:year-:month-:day-:slug/
-    events_categories: /agenda/:slug/
+    events_categories: /actualites/agenda/:slug/
     pages_categories: /:slug/
     posts: /actualites/:year-:month-:day-:slug/
     posts_categories: /actualites/:slug/
