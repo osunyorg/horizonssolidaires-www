@@ -8,7 +8,7 @@ bodyclass: >-
 url: "/equipe/"
 slug: "equipe"
 date: 2025-02-07T15:22:05+01:00
-lastmod: 2025-05-26T11:06:22+02:00
+lastmod: 2025-05-26T11:18:08+02:00
 meta:
   hugo:
     permalink: "/equipe/"
@@ -17,7 +17,7 @@ meta:
     slug: "equipe"
   dates:
     created_at: 2025-02-07T15:22:05+01:00
-    updated_at: 2025-05-26T11:06:22+02:00
+    updated_at: 2025-05-26T11:18:08+02:00
     published_at: 2025-02-07T15:22:05+01:00
 search:
   id: "ae9a2080-7c97-48cd-b9cd-780f53c39e7d"
@@ -30,7 +30,7 @@ search:
   summary: >-
     
   body: >-
-    <p>Chronologie HZ  <br>Création du pôle</p>  <p>Evenement histoire HZ n°2</p>  <p>Evenement histoire HZ n°3</p>  <p> Anaëlle Bureau </p>  <p>Coordinatrice et chargée de mission</p>  <p> Aude Le Luel </p>  <p>Chargée de communication & animation réseau</p>  <p> Administrateur·ices </p>
+    <p>Chronologie Horizons Solidaires  <br>Création du pôle <br>résumé</p>  <p>Evenement histoire HZ n°2 <br>résumé</p>  <p>Evenement histoire HZ n°3 <br>résumé</p>  <p> Gouvernance  <br>Explication de la gouvernance. (un CA composé de quatre personnes, et.) <br>ici, une note ?</p>  <p> Administrateur·ices </p>  <p> Salariées </p>
 
 breadcrumbs:
   - title: >-
@@ -75,18 +75,38 @@ header_cta:
   target: ""
   external: false
 section_taxonomies:
+  - name: >-
+      Catégories
+    slug: ""
+    path: ""
+    categories:
+      - permalink: "/equipe/categories/administrateurices/"
+        path: "/persons_categories/administrateurices"
+        slug: "administrateurices"
+        file: "content/fr/persons_categories/administrateurices/_index.html"
+        name: >-
+          Administrateur·ices
+        count: 3
+      - permalink: "/equipe/categories/salariees/"
+        path: "/persons_categories/salariees"
+        slug: "salariees"
+        file: "content/fr/persons_categories/salariees/_index.html"
+        name: >-
+          Salarié·e·s
+        count: 2
+
 
 contents_reading_time:
-  seconds: 10
+  seconds: 11
   text: >-
     moins d'une minute
 contents:
   - kind: block
     template: timeline
     title: >-
-      Chronologie HZ
+      Chronologie Horizons Solidaires
     slug: >-
-      chronologie-hz
+      chronologie-horizons-solidaires
     ranks:
       base: 2
       self: 2
@@ -95,7 +115,7 @@ contents:
       active: true
       title: 
         value: >-
-          Chronologie HZ
+          Chronologie Horizons Solidaires
         heading: 2
     data:
       layout: horizontal
@@ -104,28 +124,28 @@ contents:
             Création du pôle
 
           text: >-
-            
+            <p>résumé</p>
 
         - title: >-
             Evenement histoire HZ n°2
 
           text: >-
-            
+            <p>résumé</p>
 
         - title: >-
             Evenement histoire HZ n°3
 
           text: >-
-            
+            <p>résumé</p>
 
 
 
   - kind: block
-    template: persons
+    template: chapter
     title: >-
-      Anaëlle Bureau
+      Gouvernance
     slug: >-
-      anaelle-bureau
+      gouvernance
     ranks:
       base: 2
       self: 2
@@ -133,55 +153,26 @@ contents:
       active: true
       title: 
         value: >-
-          Anaëlle Bureau
+          Gouvernance
         heading: 2
-      description: >-
-        <p>Coordinatrice et chargée de mission</p>
     data:
-      description: >-
-        <p>Coordinatrice et chargée de mission</p>
+      layout: alt_background
+      text: >-
+        <p>Explication de la gouvernance. (un CA composé de quatre personnes, et.)</p>
 
-      layout: grid
-      options:
-        image: true
-        summary: false
-        link: false
-        contact: false
+      notes: >-
+        <p>ici, une note ?</p>
 
-      persons:
-      quantity: 0
+      image:
+        id: "37cb8d3e-014d-4f07-b5a0-8b9af2433f40"
+        file: "37cb8d3e-014d-4f07-b5a0-8b9af2433f40"
 
+      alt: >-
+        
 
-  - kind: block
-    template: persons
-    title: >-
-      Aude Le Luel
-    slug: >-
-      aude-le-luel
-    ranks:
-      base: 2
-      self: 2
-    top:
-      active: true
-      title: 
-        value: >-
-          Aude Le Luel
-        heading: 2
-      description: >-
-        <p>Chargée de communication & animation réseau</p>
-    data:
-      description: >-
-        <p>Chargée de communication & animation réseau</p>
+      credit: >-
+        
 
-      layout: grid
-      options:
-        image: true
-        summary: true
-        link: true
-        contact: false
-
-      persons:
-      quantity: 0
 
 
   - kind: block
@@ -193,12 +184,14 @@ contents:
     ranks:
       base: 2
       self: 2
+      children: 3
     top:
       active: true
       title: 
         value: >-
           Administrateur·ices
         heading: 2
+        link: "/equipe/categories/administrateurices/"
     data:
       description: >-
         
@@ -207,11 +200,78 @@ contents:
       options:
         image: true
         summary: true
-        link: true
+        link: false
         contact: false
 
       persons:
-      quantity: 0
+        - permalink: "/equipe/nathalie-bernard-griffiths/"
+          path: "/persons/nathalie-bernard-griffiths"
+          slug: "nathalie-bernard-griffiths"
+          file: "content/fr/persons/nathalie-bernard-griffiths.html"
+          role: >-
+            
+
+        - permalink: "/equipe/gael-helary/"
+          path: "/persons/gael-helary"
+          slug: "gael-helary"
+          file: "content/fr/persons/gael-helary.html"
+          role: >-
+            
+
+        - permalink: "/equipe/jactat-auriane/"
+          path: "/persons/jactat-auriane"
+          slug: "jactat-auriane"
+          file: "content/fr/persons/jactat-auriane.html"
+          role: >-
+            
+
+      quantity: 3
+
+
+  - kind: block
+    template: persons
+    title: >-
+      Salariées
+    slug: >-
+      salariees
+    ranks:
+      base: 2
+      self: 2
+      children: 3
+    top:
+      active: true
+      title: 
+        value: >-
+          Salariées
+        heading: 2
+        link: "/equipe/categories/salariees/"
+    data:
+      description: >-
+        
+
+      layout: grid
+      options:
+        image: true
+        summary: true
+        link: false
+        contact: false
+
+      persons:
+        - permalink: "/equipe/bureau-anaelle/"
+          path: "/persons/bureau-anaelle"
+          slug: "bureau-anaelle"
+          file: "content/fr/persons/bureau-anaelle.html"
+          role: >-
+            
+
+        - permalink: "/equipe/le-luel-aude/"
+          path: "/persons/le-luel-aude"
+          slug: "le-luel-aude"
+          file: "content/fr/persons/le-luel-aude.html"
+          role: >-
+            
+
+      quantity: 2
 
 
 
