@@ -148,12 +148,14 @@ contents:
     ranks:
       base: 2
       self: 2
+      children: 3
     top:
       active: true
       title: 
         value: >-
           Pour qui ?
         heading: 2
+        link: "/organisations/categories/public/"
     data:
       layout: grid
       description: >-
@@ -165,7 +167,15 @@ contents:
         summary: false
 
       organizations:
-      quantity: 0
+        - permalink: "/organisations/association/"
+          path: "/organizations/association"
+          slug: "association"
+          file: "content/fr/organizations/association.html"
+        - permalink: "/organisations/etablissement-scolaire-organisme-de-formation/"
+          path: "/organizations/etablissement-scolaire-organisme-de-formation"
+          slug: "etablissement-scolaire-organisme-de-formation"
+          file: "content/fr/organizations/etablissement-scolaire-organisme-de-formation.html"
+      quantity: 2
 
 
 ---
