@@ -15,7 +15,7 @@ items:
   children: []
   path: "/events"
   file: content/fr/events/_index.html
-- title: Equipe
+- title: Qui sommes-nous ?
   target: "/equipe/"
   kind: page
   new_tab: false
