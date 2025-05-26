@@ -22,11 +22,4 @@ items:
   children: []
   path: "/pages/nos-missions"
   file: content/fr/pages/nos-missions/_index.html
-- title: Actualité
-  target: "/actualites/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
 
