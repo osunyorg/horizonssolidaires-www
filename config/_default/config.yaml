@@ -6,5 +6,8 @@ params:
   search:
     active: true
   logo:
-    header: '/assets/images/horizons-solidaires.png'
-    footer: '/assets/images/pole-ess.png'
+    header: '/assets/images/logo.png'
+    footer: '/assets/images/logo-blanc.png'
+  home:
+    head:
+      title: site
