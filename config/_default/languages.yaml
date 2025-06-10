@@ -28,8 +28,8 @@ fr:
             https://www.linkedin.com/company/horizonsolidaires/
 
   permalinks:
-    events: /agenda/:year/:slug/
-    exhibitions: /expositions/:year-:month-:day-:slug/
+    events: /agenda/:year/:slug:federation_suffix/
+    exhibitions: /expositions/:year-:month-:day-:slug:federation_suffix/
     events_categories: /agenda/:slug/
     pages_categories: /:slug/
     posts: /actualites/:year-:month-:day-:slug/
