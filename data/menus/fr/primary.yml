@@ -22,7 +22,7 @@ items:
   children: []
   path: "/pages/nos-missions"
   file: content/fr/pages/nos-missions/_index.html
-- title: Actualités
+- title: Nos actus
   target: "/actus/"
   kind: page
   new_tab: false
