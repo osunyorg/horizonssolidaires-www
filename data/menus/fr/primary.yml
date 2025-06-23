@@ -29,4 +29,11 @@ items:
   children: []
   path: "/pages/actus"
   file: content/fr/pages/actus/_index.html
+- title: Adhérer
+  target: "/adherer/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/adherer"
+  file: content/fr/pages/adherer/_index.html
 
