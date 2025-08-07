@@ -8,7 +8,7 @@ bodyclass: >-
 url: "/"
 slug: ""
 date: 2025-02-07T15:22:04+01:00
-lastmod: 2025-08-07T16:06:56+02:00
+lastmod: 2025-08-07T16:16:14+02:00
 meta:
   hugo:
     permalink: "/"
@@ -17,7 +17,7 @@ meta:
     slug: ""
   dates:
     created_at: 2025-02-07T15:22:04+01:00
-    updated_at: 2025-08-07T16:06:56+02:00
+    updated_at: 2025-08-07T16:16:14+02:00
     published_at: 2025-02-07T15:22:04+01:00
 search:
   id: "b3a7638b-bbad-428b-b1ac-0322e79a770b"
@@ -30,7 +30,7 @@ search:
   summary: >-
     <p>Pôle d'économie sociale et solidaire<br>du Pays de Saint-Malo</p>
   body: >-
-    <p>Nos adhérents </p>  <p> Vous êtes... </p>
+    <p>Nos adhérents  <br> Nos adhérents </p>  <p> Vous êtes... </p>
 
 breadcrumbs:
   - title: >-
@@ -79,7 +79,7 @@ header_cta:
   external: false
 
 contents_reading_time:
-  seconds: 1
+  seconds: 2
   text: >-
     moins d'une minute
 contents:
@@ -144,7 +144,7 @@ contents:
 
 
   - kind: block
-    template: organizations
+    template: title
     title: >-
       Nos adhérents
     slug: >-
@@ -152,13 +152,32 @@ contents:
     ranks:
       base: 2
       self: 2
-      children: 3
     top:
       active: true
       title: 
         value: >-
           Nos adhérents
         heading: 2
+    data:
+      layout: collapsed
+
+
+  - kind: block
+    template: organizations
+    title: >-
+      Nos adhérents
+    slug: >-
+      nos-adherents
+    ranks:
+      base: 3
+      self: 3
+      children: 4
+    top:
+      active: true
+      title: 
+        value: >-
+          Nos adhérents
+        heading: 3
         link: "/organisations/categories/adherents/"
     data:
       layout: map
@@ -302,16 +321,16 @@ contents:
     slug: >-
       vous-etes
     ranks:
-      base: 2
-      self: 2
-      children: 3
+      base: 3
+      self: 3
+      children: 4
     html_class: "block-class-blocks-cards-publics"
     top:
       active: true
       title: 
         value: >-
           Vous êtes...
-        heading: 2
+        heading: 3
     data:
       options:
         image: false
