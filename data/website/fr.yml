@@ -1,0 +1,129 @@
+default:
+contents_reading_time:
+  seconds: 4
+  text: >-
+    moins d'une minute
+contents:
+  - kind: block
+    template: contact
+    title: >-
+      
+    slug: >-
+      
+    ranks:
+      base: 2
+      children: 2
+    top:
+      active: false
+    data:
+      description: >-
+        
+
+      name: >-
+        
+
+      information: >-
+        
+
+      contact_details:
+        postal_address:
+          data:
+            address_name: >-
+              
+            address: >-
+              25 Boulevard de la Tour d'Auvergne
+            address_additional: >-
+              
+            zipcode: >-
+              36400
+            city: >-
+              Saint-Malo
+            country:
+              name: >-
+                
+              alpha2: >-
+                
+              alpha3: >-
+                
+          text: >-
+            25 Boulevard de la Tour d'Auvergne 36400 Saint-Malo
+          html: >-
+            <address itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"> <span itemprop="streetAddress">25 Boulevard de la Tour d'Auvergne</span> <span itemprop="postalCode">36400</span> <span itemprop="addressLocality">Saint-Malo</span></address>
+        phone_numbers:
+          list:
+            - label: >-
+                07 67 34 61 87
+              value: >-
+                tel:0767346187
+        emails:
+          list:
+            - label: >-
+                coordination@horizons-solidaires.fr
+              value: >-
+                mailto:coordination@horizons-solidaires.fr
+
+      timetable:
+        - title: >-
+            Mardi
+
+          time_slot_morning:
+            from: ""
+            to: ""
+
+          time_slot_afternoon:
+            from: "09:30"
+            to: "17:00"
+
+        - title: >-
+            Mercredi
+
+          time_slot_morning:
+            from: ""
+            to: ""
+
+          time_slot_afternoon:
+            from: "09:30"
+            to: "17:00"
+
+        - title: >-
+            Jeudi
+
+          time_slot_morning:
+            from: ""
+            to: ""
+
+          time_slot_afternoon:
+            from: "09:30"
+            to: "17:00"
+
+
+
+  - kind: block
+    template: links
+    title: >-
+      
+    slug: >-
+      
+    ranks:
+      base: 2
+    top:
+      active: false
+    data:
+      description: >-
+        
+
+      links:
+        - title: >-
+            Adhérer
+
+          description: >-
+            
+
+          url: >-
+            
+
+          external: false
+
+
+
+
