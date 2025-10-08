@@ -1,6 +1,6 @@
 default:
 contents_reading_time:
-  seconds: 4
+  seconds: 3
   text: >-
     moins d'une minute
 contents:
@@ -35,7 +35,7 @@ contents:
             address_additional: >-
               
             zipcode: >-
-              36400
+              35400
             city: >-
               Saint-Malo
             country:
@@ -46,15 +46,15 @@ contents:
               alpha3: >-
                 
           text: >-
-            25 Boulevard de la Tour d'Auvergne 36400 Saint-Malo
+            25 Boulevard de la Tour d'Auvergne 35400 Saint-Malo
           html: >-
-            <address itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"> <span itemprop="streetAddress">25 Boulevard de la Tour d'Auvergne</span> <span itemprop="postalCode">36400</span> <span itemprop="addressLocality">Saint-Malo</span></address>
+            <address itemprop="address" itemscope itemtype="https://schema.org/PostalAddress"> <span itemprop="streetAddress">25 Boulevard de la Tour d'Auvergne</span> <span itemprop="postalCode">35400</span> <span itemprop="addressLocality">Saint-Malo</span></address>
         phone_numbers:
           list:
             - label: >-
-                07 67 34 61 87
+                09 88 35 07 68
               value: >-
-                tel:0767346187
+                tel:0988350768
         emails:
           list:
             - label: >-
@@ -95,34 +95,6 @@ contents:
           time_slot_afternoon:
             from: "09:30"
             to: "17:00"
-
-
-
-  - kind: block
-    template: links
-    title: >-
-      
-    slug: >-
-      
-    ranks:
-      base: 2
-    top:
-      active: false
-    data:
-      description: >-
-        
-
-      links:
-        - title: >-
-            Adhérer
-
-          description: >-
-            
-
-          url: >-
-            
-
-          external: false
 
 
 
