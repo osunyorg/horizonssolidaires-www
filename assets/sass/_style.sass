@@ -7,6 +7,23 @@ h1
             .media
                 img
                     aspect-ratio: 1
+.pages__section
+    .hero
+        .container
+            .content
+                border-radius: 30px
+                padding: var(--grid-gutter)
+                align-items: center
+                .hero-text
+                    width: columns(7)
+                .is-png
+                    width: columns(3)
+    .document-content
+        h2
+            border-bottom: $body-color 1px solid
+            line-height: $lead-line-height
+
+
 .page-homepage
     .hero
         background-color: $color-orange-light
@@ -33,26 +50,29 @@ h1
 .page-ess-quoi
     .content
         background-color: $color-blue-light
-        border-radius: 30px
-        padding: 20px 50px 20px 50px
-        .is-png
-            width: columns(2)
         h1
             color: $color-blue
         p
             color: $color-blue
+    
 
 .page-qui
-    .content
-        background-color: $color-orange-light
-        border-radius: 30px
-        padding: 20px 50px 20px 50px
-        h1
-            color: $color-red
-        p
-            color: $color-red
-        .is-png
-            width: columns(2)
+    .hero
+        .container
+            .content
+                border-radius: 30px
+                padding: var(--grid-gutter)
+                align-items: center
+                background-color: $color-orange-light
+                h1
+                    color: $color-red
+                p
+                    color: $color-red
+                .hero-text
+                    width: columns(7)
+                .is-png
+                    width: columns(3)
+
     .avatar
         background-color: white
     .organization
@@ -83,18 +103,16 @@ h1
         border-radius: 20px
         min-height: var(--grid-gutter)
         picture
-            width: columns(1)
+            width: columns(2)
         img
-            height: 4em
-            margin: 1em 0em 0em 1em
+            height: columns(2)
+            margin-left: $grid-gutter
+            margin-top: $grid-gutter
 
 .page-actus
     .content
         background-color: $color-orange-light
         border-radius: 30px
-        padding: 20px 50px 20px 50px
-        .is-png
-            width: columns(2)
         .hero-text
             h1
                 color: $color-red
@@ -104,6 +122,13 @@ h1
         .links
             li
                 border-radius: 20px
+    .events
+        .media
+            width: columns(4)
+
+        picture
+            display: flex
+            height: columns(2)
 
 .page-adherer
     .content
@@ -209,10 +234,14 @@ h1
 
 .events__page
     .content
+        background-color: $color-blue-light
+        padding: columns(1) !important
+        border-radius: 20px
+        .is-png
+            width: columns(5)
         h1
             color: $color-blue
             span
-                padding-top: var(--grid-gutter)
                 color: $color-blue
                 font-family: $font-raleway
                 font-size: 0.7em
@@ -230,3 +259,16 @@ h1
         background-color: $color-blue-light
         padding: var(--grid-gutter)
         border-radius: 30px
+
+.posts__page
+    .chapter
+        border-radius: 20px
+    .hero 
+        .content
+        h1
+            span
+                font-family: $font-raleway
+                font-size: 0.7em
+                line-height: 1.3em
+                color: $color-blue
+        
