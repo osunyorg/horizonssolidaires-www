@@ -1,6 +1,6 @@
 default:
 contents_reading_time:
-  seconds: 3
+  seconds: 18
   text: >-
     moins d'une minute
 contents:
@@ -113,6 +113,12 @@ contents:
         
 
       elements:
+        - title: >-
+            Pourquoi avoir choisi Osuny pour concevoir notre site ?
+
+          description: >-
+            <p>Osuny est un système de gestion de contenus libre qui permet de créer  des sites accessibles, éco-conçus, qualitatifs, souverains et sécurisés</p><p>Ce logiciel, porté par la coopérative noesya, est un projet numérique d'intérêt général, démocratique et  transparent.</p>
+
 
 
 
