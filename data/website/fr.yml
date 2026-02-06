@@ -6,45 +6,29 @@ contents_reading_time:
 contents:
   - kind: block
     template: contact
-    title: >-
-      
-    slug: >-
-      
+
+
     ranks:
       base: 2
       children: 2
     top:
       active: false
+
     data:
-      description: >-
-        
 
-      name: >-
-        
 
-      information: >-
-        
 
       contact_details:
         postal_address:
           data:
-            address_name: >-
-              
+
             address: >-
               25 Boulevard de la Tour d'Auvergne
-            address_additional: >-
-              
+
             zipcode: >-
               35400
             city: >-
               Saint-Malo
-            country:
-              name: >-
-                
-              alpha2: >-
-                
-              alpha3: >-
-                
           text: >-
             25 Boulevard de la Tour d'Auvergne 35400 Saint-Malo
           html: >-
@@ -63,62 +47,52 @@ contents:
                 mailto:coordination@horizons-solidaires.fr
 
       timetable:
-        - title: >-
+        - 
+          title: >-
             Mardi
-
           time_slot_morning:
             from: ""
             to: ""
-
           time_slot_afternoon:
             from: "09:30"
             to: "17:00"
-
-        - title: >-
+        - 
+          title: >-
             Mercredi
-
           time_slot_morning:
             from: ""
             to: ""
-
           time_slot_afternoon:
             from: "09:30"
             to: "17:00"
-
-        - title: >-
+        - 
+          title: >-
             Jeudi
-
           time_slot_morning:
             from: ""
             to: ""
-
           time_slot_afternoon:
             from: "09:30"
             to: "17:00"
-
 
 
   - kind: block
     template: definitions
-    title: >-
-      
-    slug: >-
-      
+
+
     ranks:
       base: 2
     top:
       active: false
+
     data:
-      description: >-
-        
 
       elements:
-        - title: >-
+        - 
+          title: >-
             Pourquoi avoir choisi Osuny pour concevoir notre site ?
-
           description: >-
             <p>Osuny est un système de gestion de contenus libre qui permet de créer  des sites accessibles, éco-conçus, qualitatifs, souverains et sécurisés</p><p>Ce logiciel, porté par la coopérative noesya, est un projet numérique d'intérêt général, démocratique et  transparent.</p>
-
 
 
 
