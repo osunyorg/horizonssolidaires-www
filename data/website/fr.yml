@@ -49,31 +49,49 @@ contents:
       timetable:
         - 
           title: >-
+            Lundi
+          time_slot_morning:
+            from: "09:30"
+            to: "12:00"
+          time_slot_afternoon:
+            from: "14:00"
+            to: "17:00"
+        - 
+          title: >-
             Mardi
           time_slot_morning:
-            from: ""
-            to: ""
-          time_slot_afternoon:
             from: "09:30"
+            to: "12:00"
+          time_slot_afternoon:
+            from: "14:00"
             to: "17:00"
         - 
           title: >-
             Mercredi
           time_slot_morning:
-            from: ""
-            to: ""
-          time_slot_afternoon:
             from: "09:30"
+            to: "12:00"
+          time_slot_afternoon:
+            from: "14:00"
             to: "17:00"
         - 
           title: >-
             Jeudi
           time_slot_morning:
+            from: "09:30"
+            to: "12:00"
+          time_slot_afternoon:
+            from: "14:00"
+            to: "17:00"
+        - 
+          title: >-
+            Vendredi
+          time_slot_morning:
+            from: "09:30"
+            to: "12:00"
+          time_slot_afternoon:
             from: ""
             to: ""
-          time_slot_afternoon:
-            from: "09:30"
-            to: "17:00"
 
 
   - kind: block
