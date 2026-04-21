@@ -310,7 +310,7 @@ next_months:
       - day: 2026-06-01
         cwday: 1
         current: false
-        events: 0
+        events: 1
       - day: 2026-06-02
         cwday: 2
         current: false
@@ -451,6 +451,51 @@ contents_reading_time:
   text: >-
     moins d'une minute
 contents:
+  - kind: block
+    template: agenda
+
+
+    ranks:
+      base: 2
+      children: 2
+    top:
+      active: true
+      description: >-
+        <p>Retrouvez ici, tous les évènements du Pôle et de ses adhérents à venir</p>
+    data:
+      mode: all
+      kinds:
+        parent: false
+        child: true
+        recurring: true
+      options:
+        categories: false
+        dates: true
+        image: true
+        subtitle: true
+        summary: true
+        status: false
+
+      layout: list
+      description: >-
+        <p>Retrouvez ici, tous les évènements du Pôle et de ses adhérents à venir</p>
+
+      title_link: "/agenda/"
+      events:
+        - permalink: "/agenda/2026/apero-ess-cote-demeraude/"
+          path: "/events/2026/06/01-17-30-apero-ess-cote-demeraude"
+          slug: "apero-ess-cote-demeraude"
+          file: "content/fr/events/2026/06/01-17-30-apero-ess-cote-demeraude.html"
+          name: >-
+            Apéro ESS - Côte d'Émeraude
+        - permalink: "/agenda/2026/apero-ess-bretagne-romantique/"
+          path: "/events/2026/07/08-apero-ess-bretagne-romantique"
+          slug: "apero-ess-bretagne-romantique"
+          file: "content/fr/events/2026/07/08-apero-ess-bretagne-romantique.html"
+          name: >-
+            Apéro ESS - Bretagne Romantique
+
+      quantity: 2
 
 
 ---
