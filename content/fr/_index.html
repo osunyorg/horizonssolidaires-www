@@ -32,7 +32,7 @@ search:
   summary: >-
     <p>Pôle d'économie sociale et solidaire du Pays de Saint‑Malo</p>
   body: >-
-    <p>Les dernières actus  </p>  <p> Vous êtes... </p>  <p> Nos adhérents </p>  <p> Les prochains événements </p>
+    <p>Les dernières actus  </p>  <p> Les prochains événements </p>  <p> Vous êtes... </p>  <p> Nos adhérents </p>
 
 breadcrumbs:
   - title: >-
@@ -177,6 +177,64 @@ contents:
 
       quantity: 6
 
+
+  - kind: block
+    template: agenda
+    title: >-
+      Les prochains événements
+    slug: >-
+      les-prochains-evenements
+    ranks:
+      base: 2
+      self: 2
+      children: 3
+    top:
+      active: true
+      title: 
+        value: >-
+          Les prochains événements
+        heading: 2
+        link: "/agenda/"
+
+    data:
+      mode: all
+      kinds:
+        parent: false
+        child: true
+        recurring: true
+      options:
+        categories: false
+        dates: true
+        image: true
+        subtitle: false
+        summary: false
+        status: false
+
+      layout: list
+
+
+      title_link: "/agenda/"
+      events:
+        - permalink: "/agenda/2026/apero-ess-cote-demeraude/"
+          path: "/events/2026/06/01-17-30-apero-ess-cote-demeraude"
+          slug: "apero-ess-cote-demeraude"
+          file: "content/fr/events/2026/06/01-17-30-apero-ess-cote-demeraude.html"
+          name: >-
+            Apéro ESS - Côte d'Émeraude
+        - permalink: "/agenda/2026/formation-benevoles-concevoir-des-supports-graphiques-lisibles-et-efficaces-pour-sa-communication/"
+          path: "/events/2026/06/18-18-00-formation-benevoles-concevoir-des-supports-graphiques-lisibles-et-efficaces-pour-sa-communication"
+          slug: "formation-benevoles-concevoir-des-supports-graphiques-lisibles-et-efficaces-pour-sa-communication"
+          file: "content/fr/events/2026/06/18-18-00-formation-benevoles-concevoir-des-supports-graphiques-lisibles-et-efficaces-pour-sa-communication.html"
+          name: >-
+            Formation bénévoles : Concevoir des supports graphiques lisibles et efficaces pour sa communication
+        - permalink: "/agenda/2026/apero-ess-bretagne-romantique/"
+          path: "/events/2026/07/08-apero-ess-bretagne-romantique"
+          slug: "apero-ess-bretagne-romantique"
+          file: "content/fr/events/2026/07/08-apero-ess-bretagne-romantique.html"
+          name: >-
+            Apéro ESS - Bretagne Romantique
+
+      quantity: 3
 
   - kind: block
     template: pages
@@ -402,64 +460,6 @@ contents:
 
       quantity: 6
 
-
-  - kind: block
-    template: agenda
-    title: >-
-      Les prochains événements
-    slug: >-
-      les-prochains-evenements
-    ranks:
-      base: 2
-      self: 2
-      children: 3
-    top:
-      active: true
-      title: 
-        value: >-
-          Les prochains événements
-        heading: 2
-        link: "/agenda/"
-
-    data:
-      mode: all
-      kinds:
-        parent: false
-        child: true
-        recurring: true
-      options:
-        categories: false
-        dates: true
-        image: true
-        subtitle: false
-        summary: false
-        status: false
-
-      layout: list
-
-
-      title_link: "/agenda/"
-      events:
-        - permalink: "/agenda/2026/apero-ess-cote-demeraude/"
-          path: "/events/2026/06/01-17-30-apero-ess-cote-demeraude"
-          slug: "apero-ess-cote-demeraude"
-          file: "content/fr/events/2026/06/01-17-30-apero-ess-cote-demeraude.html"
-          name: >-
-            Apéro ESS - Côte d'Émeraude
-        - permalink: "/agenda/2026/formation-benevoles-concevoir-des-supports-graphiques-lisibles-et-efficaces-pour-sa-communication/"
-          path: "/events/2026/06/18-formation-benevoles-concevoir-des-supports-graphiques-lisibles-et-efficaces-pour-sa-communication"
-          slug: "formation-benevoles-concevoir-des-supports-graphiques-lisibles-et-efficaces-pour-sa-communication"
-          file: "content/fr/events/2026/06/18-formation-benevoles-concevoir-des-supports-graphiques-lisibles-et-efficaces-pour-sa-communication.html"
-          name: >-
-            Formation bénévoles : Concevoir des supports graphiques lisibles et efficaces pour sa communication
-        - permalink: "/agenda/2026/apero-ess-bretagne-romantique/"
-          path: "/events/2026/07/08-apero-ess-bretagne-romantique"
-          slug: "apero-ess-bretagne-romantique"
-          file: "content/fr/events/2026/07/08-apero-ess-bretagne-romantique.html"
-          name: >-
-            Apéro ESS - Bretagne Romantique
-
-      quantity: 3
 
 
 ---
