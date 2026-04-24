@@ -15,334 +15,334 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/actualites/2025-06-11-less-et-legalite-femme-homme/"
+from = "/actualites/2025-06-11-less-et-legalite-femme-homme/index.html"
 to = "/articles/2025-06-11-less-et-legalite-femme-homme/"
 
 [[redirects]]
-from = "/aim-le-lien/"
+from = "/aim-le-lien/index.html"
 to = "/organisations/aim-le-lien/"
 
 [[redirects]]
-from = "/2025/transmettre/"
+from = "/2025/transmettre/index.html"
 to = "/agenda/2025/transmettre/"
 
 [[redirects]]
-from = "/actualites/linfo-express/"
+from = "/actualites/linfo-express/index.html"
 to = "/articles/linfo-express/"
 
 [[redirects]]
-from = "/actualites/2025-06-11-less-et-le-milieu-carceral/"
+from = "/actualites/2025-06-11-less-et-le-milieu-carceral/index.html"
 to = "/articles/2025-06-11-less-et-le-milieu-carceral/"
 
 [[redirects]]
-from = "/2026/04/"
+from = "/2026/04/index.html"
 to = "/agenda/2026/04/"
 
 [[redirects]]
-from = "/2025/apero-reseau/"
+from = "/2025/apero-reseau/index.html"
 to = "/agenda/2025/apero-reseau/"
 
 [[redirects]]
-from = "/2025/cine-debat-leurs-champs-du-coeur/"
+from = "/2025/cine-debat-leurs-champs-du-coeur/index.html"
 to = "/agenda/2025/cine-debat-leurs-champs-du-coeur/"
 
 [[redirects]]
-from = "/region-bretagne/"
+from = "/region-bretagne/index.html"
 to = "/organisations/region-bretagne/"
 
 [[redirects]]
-from = "/theatre-de-poche/"
+from = "/theatre-de-poche/index.html"
 to = "/organisations/theatre-de-poche/"
 
 [[redirects]]
-from = "/2026/02/"
+from = "/2026/02/index.html"
 to = "/agenda/2026/02/"
 
 [[redirects]]
-from = "/organisations/elan-createur/"
+from = "/organisations/elan-createur/index.html"
 to = "/elan-createur/"
 
 [[redirects]]
-from = "/equipe/gael-helary/"
+from = "/equipe/gael-helary/index.html"
 to = "/qui-sommes-nous/gael-helary/"
 
 [[redirects]]
-from = "/2025/11/"
+from = "/2025/11/index.html"
 to = "/agenda/2025/11/"
 
 [[redirects]]
-from = "/equipe/categories/salariees/"
+from = "/equipe/categories/salariees/index.html"
 to = "/qui-sommes-nous/categories/salariees/"
 
 [[redirects]]
-from = "/2025/formation-responsabilites-associatives-quels-risques-pour-les-dirigeants-benevoles/"
+from = "/2025/formation-responsabilites-associatives-quels-risques-pour-les-dirigeants-benevoles/index.html"
 to = "/agenda/2025/formation-responsabilites-associatives-quels-risques-pour-les-dirigeants-benevoles/"
 
 [[redirects]]
-from = "/2025/02/"
+from = "/2025/02/index.html"
 to = "/agenda/2025/02/"
 
 [[redirects]]
-from = "/equipe/jactat-auriane/"
+from = "/equipe/jactat-auriane/index.html"
 to = "/qui-sommes-nous/jactat-auriane/"
 
 [[redirects]]
-from = "/categories/financeurs/"
+from = "/categories/financeurs/index.html"
 to = "/organisations/categories/financeurs/"
 
 [[redirects]]
-from = "/equipe/nathalie-bernard-griffiths/"
+from = "/equipe/nathalie-bernard-griffiths/index.html"
 to = "/qui-sommes-nous/nathalie-bernard-griffiths/"
 
 [[redirects]]
-from = "/porteureuses-de-projet/"
+from = "/porteureuses-de-projet/index.html"
 to = "/nos-missions/porteureuses-de-projet/"
 
 [[redirects]]
-from = "/actualites/2025-05-26-less-et-la-restauration-collective/"
+from = "/actualites/2025-05-26-less-et-la-restauration-collective/index.html"
 to = "/articles/2025-05-26-less-et-la-restauration-collective/"
 
 [[redirects]]
-from = "/organisations/la-coop-bio/"
+from = "/organisations/la-coop-bio/index.html"
 to = "/la-coop-bio/"
 
 [[redirects]]
-from = "/laep-tricotin/"
+from = "/laep-tricotin/index.html"
 to = "/organisations/laep-tricotin/"
 
 [[redirects]]
-from = "/2025/cigales-recherchent-fourmis/"
+from = "/2025/cigales-recherchent-fourmis/index.html"
 to = "/agenda/2025/cigales-recherchent-fourmis/"
 
 [[redirects]]
-from = "/equipe/"
+from = "/equipe/index.html"
 to = "/qui-sommes-nous/"
 
 [[redirects]]
-from = "/2025/assemblee-generale-extraordinaire/"
+from = "/2025/assemblee-generale-extraordinaire/index.html"
 to = "/agenda/2025/assemblee-generale-extraordinaire/"
 
 [[redirects]]
-from = "/equipe/categories/administrateurices/"
+from = "/equipe/categories/administrateurices/index.html"
 to = "/qui-sommes-nous/categories/administrateurices/"
 
 [[redirects]]
-from = "/terra-phoenix/"
+from = "/terra-phoenix/index.html"
 to = "/organisations/terra-phoenix/"
 
 [[redirects]]
-from = "/equipe/le-luel-aude/"
+from = "/equipe/le-luel-aude/index.html"
 to = "/qui-sommes-nous/le-luel-aude/"
 
 [[redirects]]
-from = "/actualites/posts-thematique-ess/"
+from = "/actualites/posts-thematique-ess/index.html"
 to = "/articles/posts-thematique-ess/"
 
 [[redirects]]
-from = "/2026/06/"
+from = "/2026/06/index.html"
 to = "/agenda/2026/06/"
 
 [[redirects]]
-from = "/2025/formation-benevoles-mieux-communiquer-et-comprendre-les-enjeux-du-conflit/"
+from = "/2025/formation-benevoles-mieux-communiquer-et-comprendre-les-enjeux-du-conflit/index.html"
 to = "/agenda/2025/formation-benevoles-mieux-communiquer-et-comprendre-les-enjeux-du-conflit/"
 
 [[redirects]]
-from = "/2025/01/"
+from = "/2025/01/index.html"
 to = "/agenda/2025/01/"
 
 [[redirects]]
-from = "/composttout/"
+from = "/composttout/index.html"
 to = "/organisations/composttout/"
 
 [[redirects]]
-from = "/2025/conference-spectacle-ba-ba-du-compostage/"
+from = "/2025/conference-spectacle-ba-ba-du-compostage/index.html"
 to = "/agenda/2025/conference-spectacle-ba-ba-du-compostage/"
 
 [[redirects]]
-from = "/2026/11/"
+from = "/2026/11/index.html"
 to = "/agenda/2026/11/"
 
 [[redirects]]
-from = "/2025/05/"
+from = "/2025/05/index.html"
 to = "/agenda/2025/05/"
 
 [[redirects]]
-from = "/2026/"
+from = "/2026/index.html"
 to = "/agenda/2026/"
 
 [[redirects]]
-from = "/2025/12/"
+from = "/2025/12/index.html"
 to = "/agenda/2025/12/"
 
 [[redirects]]
-from = "/organisations/al-lark/"
+from = "/organisations/al-lark/index.html"
 to = "/al-lark/"
 
 [[redirects]]
-from = "/citoyenne/"
+from = "/citoyenne/index.html"
 to = "/nos-missions/citoyenne/"
 
 [[redirects]]
-from = "/2025/03/"
+from = "/2025/03/index.html"
 to = "/agenda/2025/03/"
 
 [[redirects]]
-from = "/2025/formation-benevoles-association-revoir-les-fondamentaux/"
+from = "/2025/formation-benevoles-association-revoir-les-fondamentaux/index.html"
 to = "/agenda/2025/formation-benevoles-association-revoir-les-fondamentaux/"
 
 [[redirects]]
-from = "/2026/01/"
+from = "/2026/01/index.html"
 to = "/agenda/2026/01/"
 
 [[redirects]]
-from = "/2026/09/"
+from = "/2026/09/index.html"
 to = "/agenda/2026/09/"
 
 [[redirects]]
-from = "/2026/forum-de-lemploi/"
+from = "/2026/forum-de-lemploi/index.html"
 to = "/agenda/2026/forum-de-lemploi/"
 
 [[redirects]]
-from = "/actualites/2025-06-11-le-reemploi-dans-la-commande-publique/"
+from = "/actualites/2025-06-11-le-reemploi-dans-la-commande-publique/index.html"
 to = "/articles/2025-06-11-le-reemploi-dans-la-commande-publique/"
 
 [[redirects]]
-from = "/2025/04/"
+from = "/2025/04/index.html"
 to = "/agenda/2025/04/"
 
 [[redirects]]
-from = "/actualites/2025-06-11-less-et-lhabitat-leger/"
+from = "/actualites/2025-06-11-less-et-lhabitat-leger/index.html"
 to = "/articles/2025-06-11-less-et-lhabitat-leger/"
 
 [[redirects]]
-from = "/scic-kejal/"
+from = "/scic-kejal/index.html"
 to = "/organisations/scic-kejal/"
 
 [[redirects]]
-from = "/2025/09/"
+from = "/2025/09/index.html"
 to = "/agenda/2025/09/"
 
 [[redirects]]
-from = "/actualites/2025-04-26-less-et-la-transition-ecologique/"
+from = "/actualites/2025-04-26-less-et-la-transition-ecologique/index.html"
 to = "/articles/2025-04-26-less-et-la-transition-ecologique/"
 
 [[redirects]]
-from = "/articles/2025-01-26-linfo-express-2601/"
+from = "/articles/2025-01-26-linfo-express-2601/index.html"
 to = "/articles/2026-01-26-linfo-express-2601/"
 
 [[redirects]]
-from = "/organisations/familles-rurales-de-dinge/"
+from = "/organisations/familles-rurales-de-dinge/index.html"
 to = "/familles-rurales-de-dinge/"
 
 [[redirects]]
-from = "/organisations/les-marteux-du-jardin/"
+from = "/organisations/les-marteux-du-jardin/index.html"
 to = "/les-marteux-du-jardin/"
 
 [[redirects]]
-from = "/equipe/bureau-anaelle/"
+from = "/equipe/bureau-anaelle/index.html"
 to = "/qui-sommes-nous/difranco-charlene/"
 
 [[redirects]]
-from = "/agenda/2025/benevolat-dating/"
+from = "/agenda/2025/benevolat-dating/index.html"
 to = "/2025/benevolat-dating/"
 
 [[redirects]]
-from = "/igam/"
+from = "/igam/index.html"
 to = "/organisations/igam/"
 
 [[redirects]]
-from = "/2025/"
+from = "/2025/index.html"
 to = "/agenda/2025/"
 
 [[redirects]]
-from = "/saint-malo-agglomeration/"
+from = "/saint-malo-agglomeration/index.html"
 to = "/organisations/saint-malo-agglomeration/"
 
 [[redirects]]
-from = "/passemploi/"
+from = "/passemploi/index.html"
 to = "/organisations/passemploi/"
 
 [[redirects]]
-from = "/2026/07/"
+from = "/2026/07/index.html"
 to = "/agenda/2026/07/"
 
 [[redirects]]
-from = "/2025/08/"
+from = "/2025/08/index.html"
 to = "/agenda/2025/08/"
 
 [[redirects]]
-from = "/2025/formation-benevoles-mieux-comprendre-et-pratiquer-sa-comptabilite-associative-1ere-session/"
+from = "/2025/formation-benevoles-mieux-comprendre-et-pratiquer-sa-comptabilite-associative-1ere-session/index.html"
 to = "/agenda/2025/formation-benevoles-mieux-comprendre-et-pratiquer-sa-comptabilite-associative-1ere-session/"
 
 [[redirects]]
-from = "/departement-ille-et-vilaine/"
+from = "/departement-ille-et-vilaine/index.html"
 to = "/organisations/departement-ille-et-vilaine/"
 
 [[redirects]]
-from = "/le-ruisseau/"
+from = "/le-ruisseau/index.html"
 to = "/organisations/le-ruisseau/"
 
 [[redirects]]
-from = "/2025/formation-benevoles-mieux-comprendre-et-pratiquer-sa-comptabilite-associative-2eme-session/"
+from = "/2025/formation-benevoles-mieux-comprendre-et-pratiquer-sa-comptabilite-associative-2eme-session/index.html"
 to = "/agenda/2025/formation-benevoles-mieux-comprendre-et-pratiquer-sa-comptabilite-associative-2eme-session/"
 
 [[redirects]]
-from = "/2025/projection-debat-leurs-champs-du-coeur/"
+from = "/2025/projection-debat-leurs-champs-du-coeur/index.html"
 to = "/agenda/2025/projection-debat-leurs-champs-du-coeur/"
 
 [[redirects]]
-from = "/2025/forum-numerique-en-bretagne-romantique/"
+from = "/2025/forum-numerique-en-bretagne-romantique/index.html"
 to = "/agenda/2025/forum-numerique-en-bretagne-romantique/"
 
 [[redirects]]
-from = "/agenda/2025/formation-communication/"
+from = "/agenda/2025/formation-communication/index.html"
 to = "/2025/formation-communication/"
 
 [[redirects]]
-from = "/actus/articles/"
+from = "/actus/articles/index.html"
 to = "/articles/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/"
+from = "/equipe/equipe-editoriale/index.html"
 to = "/equipe-editoriale/"
 
 [[redirects]]
-from = "/tranzire/"
+from = "/tranzire/index.html"
 to = "/organisations/tranzire/"
 
 [[redirects]]
-from = "/2026/12/"
+from = "/2026/12/index.html"
 to = "/agenda/2026/12/"
 
 [[redirects]]
-from = "/categories/adherents/"
+from = "/categories/adherents/index.html"
 to = "/organisations/categories/adherents/"
 
 [[redirects]]
-from = "/actualites/"
+from = "/actualites/index.html"
 to = "/articles/"
 
 [[redirects]]
-from = "/les-cigales-de-bretagne/"
+from = "/les-cigales-de-bretagne/index.html"
 to = "/organisations/les-cigales-de-bretagne/"
 
 [[redirects]]
-from = "/2026/10/"
+from = "/2026/10/index.html"
 to = "/agenda/2026/10/"
 
 [[redirects]]
-from = "/2026/05/"
+from = "/2026/05/index.html"
 to = "/agenda/2026/05/"
 
 [[redirects]]
-from = "/2026/03/"
+from = "/2026/03/index.html"
 to = "/agenda/2026/03/"
 
 [[redirects]]
-from = "/2025/responsabilites-associatives-quels-risques-pour-les-dirigeants-benevoles-saint-malo/"
+from = "/2025/responsabilites-associatives-quels-risques-pour-les-dirigeants-benevoles-saint-malo/index.html"
 to = "/agenda/2025/responsabilites-associatives-quels-risques-pour-les-dirigeants-benevoles-saint-malo/"
 
 [[redirects]]
-from = "/2026/08/"
+from = "/2026/08/index.html"
 to = "/agenda/2026/08/"
 
