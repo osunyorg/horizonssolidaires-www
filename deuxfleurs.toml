@@ -311,6 +311,10 @@ from = "/tranzire/index.html"
 to = "/organisations/tranzire/"
 
 [[redirects]]
+from = "/articles/0006-05-18-linfo-express-1805/index.html"
+to = "/articles/2026-05-18-linfo-express-1805/"
+
+[[redirects]]
 from = "/2026/12/index.html"
 to = "/agenda/2026/12/"
 
