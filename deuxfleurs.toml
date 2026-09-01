@@ -63,6 +63,10 @@ from = "/organisations/elan-createur/index.html"
 to = "/elan-createur/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/rapport-d-activite-2023-compressedpdf/"
+
+[[redirects]]
 from = "/equipe/gael-helary/index.html"
 to = "/qui-sommes-nous/gael-helary/"
 
