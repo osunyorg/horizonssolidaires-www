@@ -175,6 +175,10 @@ from = "/2026/index.html"
 to = "/agenda/2026/"
 
 [[redirects]]
+from = "/articles/2025-11-17-linfo-express-1711/index.html"
+to = "/articles/2026-09-16-linfo-express-1711/"
+
+[[redirects]]
 from = "/2025/12/index.html"
 to = "/agenda/2025/12/"
 
@@ -349,6 +353,10 @@ to = "/agenda/2026/03/"
 [[redirects]]
 from = "/2025/responsabilites-associatives-quels-risques-pour-les-dirigeants-benevoles-saint-malo/index.html"
 to = "/agenda/2025/responsabilites-associatives-quels-risques-pour-les-dirigeants-benevoles-saint-malo/"
+
+[[redirects]]
+from = "/articles/2025-11-10-linfo-express-1011/index.html"
+to = "/articles/2026-09-16-linfo-express-1011/"
 
 [[redirects]]
 from = "/2026/08/index.html"
